@@ -1,4 +1,4 @@
-# Atividade 01
+# Atividade N
 
 Este diretório contém exercícios de JavaScript que fazem parte do módulo 1 de exercícios da MaisPraTi.
 
@@ -21,4 +21,6 @@ cd MaisPTi/Modulo_01/Atividade_01
 3. Para cada exercício, você pode executar o arquivo `.js` usando o Node.js. Por exemplo:
 
 node ex_01.js
+
+
 Substitua `ex_01.js` pelo nome do arquivo de exercício que deseja executar.
