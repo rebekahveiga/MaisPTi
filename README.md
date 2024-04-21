@@ -2,23 +2,6 @@
 
 Este diretório contém exercícios de JavaScript que fazem parte dos módulos de exercícios da MaisPraTi.
 
-MaisPTi
-├── Modulo_01
-│   ├── Atividade_01
-│   │   └── ex.js
-│   ├── Atividade_02
-│   │   └── ex.js
-│   └── Atividade_n
-│       └── ex.js
-└── Modulo_n
-    ├── Atividade_01
-    │   └── ex.js
-    ├── Atividade_02
-    │   └── ex.js
-    └── Atividade_n
-        └── ex.js
-
-
 ## Pré-requisitos
 
 Para rodar os exercícios, você precisa ter o Node.js instalado em sua máquina.
