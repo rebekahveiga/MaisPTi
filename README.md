@@ -1,6 +1,23 @@
 # Atividade N
 
-Este diretório contém exercícios de JavaScript que fazem parte do módulo 1 de exercícios da MaisPraTi.
+Este diretório contém exercícios de JavaScript que fazem parte dos módulos de exercícios da MaisPraTi.
+
+MaisPTi
+├── Modulo_01
+│   ├── Atividade_01
+│   │   └── ex.js
+│   ├── Atividade_02
+│   │   └── ex.js
+│   └── Atividade_n
+│       └── ex.js
+└── Modulo_n
+    ├── Atividade_01
+    │   └── ex.js
+    ├── Atividade_02
+    │   └── ex.js
+    └── Atividade_n
+        └── ex.js
+
 
 ## Pré-requisitos
 
