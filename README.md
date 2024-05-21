@@ -18,7 +18,11 @@ git clone https://github.com/rebekahveiga/MaisPTi.git
 
 cd MaisPTi/Modulo_01/Atividade_01
 
-3. Para cada exercício, você pode executar o arquivo `.js` usando o Node.js. Por exemplo:
+3. Instale as dependências:
+
+npm install
+   
+4. Para cada exercício, você pode executar o arquivo `.js` usando o Node.js. Por exemplo:
 
 node ex_01.js
 
